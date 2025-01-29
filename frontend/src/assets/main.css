@@ -1,0 +1,11 @@
+@import "./base.css";
+
+#app {
+  background-color: var(--bg);
+  height: 100dvh;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
