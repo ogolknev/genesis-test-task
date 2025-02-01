@@ -10,4 +10,4 @@
 
 **frontend:** `localhost:5173`
 
-**backend:** `localgost:3000`
+**backend:** `localhost:3000`
